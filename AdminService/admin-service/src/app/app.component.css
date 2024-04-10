@@ -1,0 +1,59 @@
+.main {
+  background-image: url(https://r4.wallpaperflare.com/wallpaper/142/751/831/landscape-anime-digital-art-fantasy-art-wallpaper-9b468c3dc3116f4905f43bc9cddc0cf0.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.shadow {
+  border-radius: 20px;
+  width: 30%;
+  border: 1px solid white;
+  color: white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 500;
+}
+h4{
+  text-align: center;
+  font-weight: 600;
+  font-family: 'Times New Roman', Times, serif;
+}
+th{
+  color: white;
+}
+/* Button Styling */
+.btn {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+  cursor: pointer;
+  border: 1px solid transparent;
+  border-radius: 0.5rem;
+  transition: all 0.3s ease;
+}
+
+/* Primary Button Style */
+.btn-primary {
+  width: 120px;
+  font-family: 'Times New Roman', Times, serif;
+  color: #fff;
+  background-color: rgb(231, 47, 203);
+  border-color: black;
+}
+.btn-primary:hover{
+  font-weight: 600;
+  background-color: #fff;
+  color: rgb(231, 47, 203);
+  border-color: black;
+}
+.btn:hover {
+  opacity: 0.8; /* Reduce opacity on hover */
+}
+
+
+
+
+
